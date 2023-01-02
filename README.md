@@ -5,3 +5,5 @@ Using radar moving sensor, transmitting via mqtt
 
 - sends status via mqtt
 - uses ws18b20 led to display status
+- telnet access
+- update via ota or web (IPofESP/update)
