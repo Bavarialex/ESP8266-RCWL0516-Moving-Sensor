@@ -10,8 +10,8 @@
 #include <Wire.h>
 #include <PubSubClient.h>
 
-const char* ssid = "ASCom";
-const char* password = "02124740388748344710";
+const char* ssid = "SSID";
+const char* password = "password";
 
 IPAddress staticIP(10, 11, 12, 57); //ESP static ip
 IPAddress gateway(10, 11, 12, 1);   //IP Address of your WiFi Router (Gateway)
