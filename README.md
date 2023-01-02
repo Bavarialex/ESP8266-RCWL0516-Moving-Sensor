@@ -12,3 +12,5 @@ STL for case:
 
 ![bwm03](https://github.com/Bavarialex/ESP8266-RCWL0516-Moving-Sensor/blob/main/pics/bwm03.jpg)
 ![bwm02](https://github.com/Bavarialex/ESP8266-RCWL0516-Moving-Sensor/blob/main/pics/bwm02.jpg)
+
+And gerber-files for pcb.
